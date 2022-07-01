@@ -47,6 +47,7 @@
         android:layout_gravity="center">
 
         <ImageButton
+            android:id="@+id/login_kakao"
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:src="@drawable/talk"

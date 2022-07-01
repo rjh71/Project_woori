@@ -2,28 +2,27 @@ package com.example.woori_project;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ImageButton;
 
-public class Register extends AppCompatActivity {
+public class Login_Basic extends AppCompatActivity {
 
-    ImageButton btn_kakao;
+    Button btn_login;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_register);
+        setContentView(R.layout.activity_login_basic);
 
-        btn_kakao = findViewById(R.id.login_kakao);
 
-        btn_kakao.setOnClickListener(new View.OnClickListener() {
+        btn_login = findViewById(R.id.btn_login);
+
+        btn_login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(), RegisterSucceed.class);
+                Intent intent = new Intent(getApplicationContext(), Select_menu.class);
                 startActivity(intent);
             }
         });

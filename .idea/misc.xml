@@ -7,9 +7,13 @@
         <entry key="app/src/main/res/layout/activity_gps_start.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/activity_green_walk_finish.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/activity_green_walk_picture_post.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/activity_login_basic.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/activity_my_report.xml" value="0.165" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/activity_register_succeed.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/activity_report_group.xml" value="0.1752786220871327" />
+        <entry key="app/src/main/res/layout/activity_select_menu.xml" value="0.1752786220871327" />
         <entry key="app/src/main/res/layout/activity_test.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/activity_today_photo.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/spinner.xml" value="0.175" />
