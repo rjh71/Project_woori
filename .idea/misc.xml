@@ -4,6 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_count_walk.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/activity_gps_start.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/activity_green_walk_finish.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/activity_green_walk_picture_post.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/activity_register_succeed.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/activity_test.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/activity_today_photo.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/spinner.xml" value="0.175" />
       </map>
     </option>
   </component>

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">woori_project</string>
+    <string-array name="alphabet_array">
+        <item>apple</item>
+        <item>banana</item>
+        <item>cup</item>
+        <item>default</item>
+    </string-array>
 </resources>
