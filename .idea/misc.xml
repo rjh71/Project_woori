@@ -4,9 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_count_walk.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/activity_fragment_my_green.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_fragment_my_report.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_gps_start.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/activity_green_walk_finish.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/activity_green_walk_picture_post.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/activity_group_fragment.xml" value="0.165" />
         <entry key="app/src/main/res/layout/activity_login_basic.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/activity_my_report.xml" value="0.165" />
@@ -16,6 +19,7 @@
         <entry key="app/src/main/res/layout/activity_select_menu.xml" value="0.1752786220871327" />
         <entry key="app/src/main/res/layout/activity_test.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/activity_today_photo.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/fragment__myreport.xml" value="0.13360507246376813" />
         <entry key="app/src/main/res/layout/spinner.xml" value="0.175" />
       </map>
     </option>
